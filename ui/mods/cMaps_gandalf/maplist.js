@@ -7,5 +7,6 @@ cShareSystems.load_pas("Gandalf", [
 	"coui://ui/mods/cMaps_gandalf/systems/Prof_X4.pas",
 	"coui://ui/mods/cMaps_gandalf/systems/Spawn_Wars.pas",
 	"coui://ui/mods/cMaps_gandalf/systems/Spawn_Wars_Teams.pas",
+	"coui://ui/mods/cMaps_gandalf/systems/kingdoms_collide.pas",
 	"coui://ui/mods/cMaps_gandalf/systems/team_arena.pas"
 ]);

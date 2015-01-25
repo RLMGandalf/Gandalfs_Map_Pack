@@ -5,6 +5,10 @@
     "date" : "2015/01/25",
     "description" : "10 player FFA meant for Dynamic Alliances",
     "note" : "Based off of Broken Alliances from wc3",
+    "players": [
+        10,
+        10
+    ],
     "planets": [
         {
             "name": "Kingdom War Alpha",

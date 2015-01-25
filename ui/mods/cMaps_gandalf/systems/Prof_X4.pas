@@ -5,6 +5,10 @@
     "date" : "2015/01/25",
     "description" : "Two Armies face off in 2v2,3v3, or preferably 4v4",
     "note" : "4v4 Version of Prof X series",
+    "players": [
+        4,
+        8
+    ],
     "planets": [
         {
             "name": "CrossRoads",
