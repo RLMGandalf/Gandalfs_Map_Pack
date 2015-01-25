@@ -1,0 +1,26 @@
+{
+    "context": "client",
+    "identifier": "com.pa.conundrum.cMaps_gandalf",
+    "display_name": "Gandalf's Map Pack",
+    "description": "A collection of hand-made maps by Gandalf.",
+    "author": "[RLM]Gandalf",
+    "version": "1.1",
+    "build": "76766",
+    "date": "2015/01/25",
+    "signature": "not yet implemented",
+    "forum": "https://forums.uberent.com/threads/gandalfs-map-pack-custom-maps.66207/",
+    "category": [
+        "ui",
+		"maps"
+    ],
+    "load_planet": [
+        "coui://ui/mods/cMaps_gandalf/maplist.js"
+    ],
+    "id": "cMaps_gandalf",
+    "icon": "http://i.imgur.com/4oiyIbU.png",
+    "priority": 500,
+    "enabled": true,
+    "dependencies": [
+        "com.pa.conundrum.cShareSystems"
+    ]
+}
